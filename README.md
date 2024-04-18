@@ -1,4 +1,3 @@
-# 💤 LazyVim
+# 3000ye's Neovim Config
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+Lean mean Neovim machine, 30-45ms startup time. Works best with [Neovim](https://github.com/neovim/neovim) ≥0.9
